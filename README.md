@@ -127,18 +127,118 @@ Sign Out Dodson Account:  <br/>
 <br/>
 
 ### Part 2: Explore the LAN Domain
-<p align="center">
-...: <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
 
+<p align="center">
+Alice login-screen: <br/>
+<img src="https://i.imgur.com/xrEumxs.png" height="80%" width="80%" alt="Alice log-in screen"/>
+<br />
+<br />
+Command Prompt:  <br/>
+<img src="https://i.imgur.com/oxcHsws.png" height="80%" width="80%" alt="Command Prompt"/>
+<br />
+<br />
+Network Interfaces: <br/>
+<img src="https://i.imgur.com/pzqsjco.png" height="80%" width="80%" alt="Network Interfaces"/>
+<br />
+<br />
+ARP table:  <br/>
+<img src="https://i.imgur.com/IHLhWeq.png" height="80%" width="80%" alt="ARP table"/>
+<br />
+<br />
+Ping the pfSense-office device:  <br/>
+<img src="https://i.imgur.com/iVDqbp9.png" height="80%" width="80%" alt="ping the pfSense office"/>
+<br />
+<br />
+Ping the Switch01 device:  <br/>
+<img src="https://i.imgur.com/4RxbmQh.png" height="80%" width="80%" alt="ping the Switch01"/>
+<br />
+<br />
+Ping the FileServer01:  <br/>
+<img src="https://i.imgur.com/OZlmZOQ.png" height="80%" width="80%" alt="ping the fileServer"/>
+  <br />
+<br />
+vWorkstation updated ARP table and close the cmd:  <br/>
+<img src="https://i.imgur.com/B47HQth.png" height="80%" width="80%" alt="ARP updated"/>
+<br />
+<br />
+PuTTY configuration window and click open:  <br/>
+<img src="https://i.imgur.com/800ezg0.png" height="80%" width="80%" alt="PuTTY"/>
+  <br />
+<br />
+Log-in prompt by typing credentials for username and password:  <br/>
+<img src="https://i.imgur.com/9gfIF71.png" height="80%" width="80%" alt="Log-in prompt"/>
+<br />
+<br />
+ Network interfaces on Switch01:  <br/>
+<img src="https://i.imgur.com/1xCXdOP.png" height="80%" width="80%" alt="Network interfaces on Switch01"/>
+  <br />
+<br />
+Open vSwitch configuration database:  <br/>
+<img src="https://i.imgur.com/C7seco5.png" height="80%" width="80%" alt="open vSwitch"/>
+<br />
+<br />
+Open vSwitch forwarding table and then close PuTTY:  <br/>
+<img src="https://i.imgur.com/trakQSd.png" height="80%" width="80%" alt="open vSwitch forwarding"/>
+    <br />
+<br />
 </p>
 
 
 ### Part 3: Explore the LAN-to-WAN
-<p align="center">
 
+<p align="center">
+Click the Firefox icon and Firefox navigation bar: <br/>
+<img src="https://i.imgur.com/ippc4T3.png" height="80%" width="80%" alt="Firefox navigation bar"/>
+<br />
+<br />
+pfsense log-in screen:  <br/>
+<img src="https://i.imgur.com/ILKUhUw.png" height="80%" width="80%" alt="pfsense log-in screen"/>
+<br />
+<br />
+Firewall NAT: <br/>
+<img src="https://i.imgur.com/1WnM123.png" height="80%" width="80%" alt="Firewall NAT"/>
+<br />
+<br />
+Outbound NAT Settings:  <br/>
+<img src="https://i.imgur.com/1imNhX2.png" height="80%" width="80%" alt="Outbound NAT Settings"/>
+<br />
+<br />
+Firewall Rules:  <br/>
+<img src="https://i.imgur.com/c56nXKv.png" height="80%" width="80%" alt="Firewall Rules"/>
+<br />
+<br />
+LAN Rules:  <br/>
+<img src="https://i.imgur.com/8ESnAf6.png" height="80%" width="80%" alt="LAN Rules"/>
+<br />
+<br />
+System Routing:  <br/>
+<img src="https://i.imgur.com/nhuMC89.png" height="80%" width="80%" alt="system routing"/>
+  <br />
+<br />
+Static Routes:  <br/>
+<img src="https://i.imgur.com/bhg34Ie.png" height="80%" width="80%" alt="Static Routes"/>
+<br />
+<br />
+Open cmd and type tracert 172.30.0.5:  <br/>
+<img src="https://i.imgur.com/v2PSAUn.png" height="80%" width="80%" alt="Traceroute results"/>
+  <br />
+<br />
+Result of tracert to the pfsense-dc appliance:  <br/>
+<img src="https://i.imgur.com/X8Gy08w.png" height="80%" width="80%" alt="result tracert"/>
+<br />
+<br />
+Get back to the Firewall Virtual IPs:  <br/>
+<img src="https://i.imgur.com/QMe9aJD.png" height="80%" width="80%" alt="Firewall virtual IPs"/>
+  <br />
+<br />
+Port Forwarding rules for the web server:  <br/>
+<img src="https://i.imgur.com/Iw0FW5t.png" height="80%" width="80%" alt="Port forwarding"/>
+<br />
+<br />
+DMZ Rules:  <br/>
+<img src="https://i.imgur.com/foVNI5v.png" height="80%" width="80%" alt="DMZ rules"/>
+    <br />
+<br />
 </p>
 
 
