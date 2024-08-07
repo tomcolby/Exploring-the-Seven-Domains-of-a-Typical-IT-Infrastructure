@@ -247,11 +247,102 @@ DMZ Rules:  <br/>
 ### Part 1: Explore the WAN Domain
 
 <p align="center">
+ Click the Firefox icon and Firefox navigation bar: <br/>
+<img src="https://i.imgur.com/WFiWCVz.png" height="80%" width="80%" alt="Firefox navigation bar"/>
+<br />
+<br />
+pfsense log-in screen:  <br/>
+<img src="https://i.imgur.com/ILKUhUw.png" height="80%" width="80%" alt="pfsense log-in screen"/>
+<br />
+<br />
+Navigate to System > Routing: <br/>
+<img src="https://i.imgur.com/0vs62Ap.png" height="80%" width="80%" alt="System > Routing"/>
+<br />
+<br />
+Static Routes:  <br/>
+<img src="https://i.imgur.com/dyulxDc.png" height="80%" width="80%" alt="Static Routes"/>
+<br />
+<br />
+Navigate to LINEAWARE:  <br/>
+<img src="https://i.imgur.com/HGUKSmp.png" height="80%" width="80%" alt="lineaware"/>
+<br />
+<br />
+Lineaware LG server interface:  <br/>
+<img src="https://i.imgur.com/BT5WO2N.png" height="80%" width="80%" alt="Lineaware interface"/>
+<br />
+<br />
+BGP summary display, and now looking for the BPG neighbor ping results:  <br/>
+<img src="https://i.imgur.com/0jrAwTW.png" height="80%" width="80%" alt="bgp summary"/>
+  <br />
+<br />
+Run BGP neighbor ping results:  <br/>
+<img src="https://i.imgur.com/FKR3SGR.png" height="80%" width="80%" alt="ping results"/>
+<br />
+<br />
+Run the BGP Routes Command:  <br/>
+<img src="https://i.imgur.com/aUbeW0T.png" height="80%" width="80%" alt="routes command"/>
+  <br />
+<br />
+Run Traceroute Results with this IP 172.31.0.40 in the IP/Hostname:  <br/>
+<img src="https://i.imgur.com/n7hmHqc.png" height="80%" width="80%" alt="result traceroute"/>
+<br />
+<br />
 </p>
 
 ### Part 2: Explore the Remote Access Domain
 <p align="center">
-
+ Login to Matt PC: <br/>
+<img src="https://i.imgur.com/ZgsPgpk.png" height="80%" width="80%" alt="Login "/>
+<br />
+<br />
+User interface:  <br/>
+<img src="https://i.imgur.com/jRYo8dK.png" height="80%" width="80%" alt="interface"/>
+<br />
+<br />
+Open Thunderbird application notify error message: <br/>
+<img src="https://i.imgur.com/1sGXtd2.png" height="80%" width="80%" alt="error message"/>
+<br />
+<br />
+Static Routes:  <br/>
+<img src="https://i.imgur.com/dyulxDc.png" height="80%" width="80%" alt="Static Routes"/>
+<br />
+<br />
+Navigate to LINEAWARE:  <br/>
+<img src="https://i.imgur.com/HGUKSmp.png" height="80%" width="80%" alt="lineaware"/>
+<br />
+<br />
+Lineaware LG server interface:  <br/>
+<img src="https://i.imgur.com/BT5WO2N.png" height="80%" width="80%" alt="Lineaware interface"/>
+<br />
+<br />
+BGP summary display, and now looking for the BPG neighbor ping results:  <br/>
+<img src="https://i.imgur.com/0jrAwTW.png" height="80%" width="80%" alt="bgp summary"/>
+  <br />
+<br />
+Run BGP neighbor ping results:  <br/>
+<img src="https://i.imgur.com/FKR3SGR.png" height="80%" width="80%" alt="ping results"/>
+<br />
+<br />
+Run the BGP Routes Command:  <br/>
+<img src="https://i.imgur.com/aUbeW0T.png" height="80%" width="80%" alt="routes command"/>
+  <br />
+<br />
+Run Traceroute Results with this IP 172.31.0.40 in the IP/Hostname:  <br/>
+<img src="https://i.imgur.com/n7hmHqc.png" height="80%" width="80%" alt="result traceroute"/>
+<br />
+<br />
+Get back to the Firewall Virtual IPs:  <br/>
+<img src="https://i.imgur.com/QMe9aJD.png" height="80%" width="80%" alt="Firewall virtual IPs"/>
+  <br />
+<br />
+Port Forwarding rules for the web server:  <br/>
+<img src="https://i.imgur.com/Iw0FW5t.png" height="80%" width="80%" alt="Port forwarding"/>
+<br />
+<br />
+DMZ Rules:  <br/>
+<img src="https://i.imgur.com/foVNI5v.png" height="80%" width="80%" alt="DMZ rules"/>
+    <br />
+<br />
 </p>
 
 
